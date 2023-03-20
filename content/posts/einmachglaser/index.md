@@ -4,6 +4,7 @@ date = "2023-03-20"
 draft = false
 pinned = false
 tags = ["NaturhistorischesMuseumBern"]
+image = "microsoftteams-image-5-2-.png"
 description = "Wunderkammer - Die Schausammlung"
 +++
 #### Die schweizer Tierwelt im Glas
