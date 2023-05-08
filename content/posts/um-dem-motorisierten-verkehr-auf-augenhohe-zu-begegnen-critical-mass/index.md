@@ -20,6 +20,8 @@ Einen Tag später, konnte man in den Sozialen Medien lesen, dass dies die Critic
 
 Was ist die Critical Mass überhaupt? Die Critical Mass (CM) ist eine Veranstaltung, an der sich viele Velofahrer*innen treffen, um durch die Stadt zu fahren. Das Ziel ist es, eine «Kritische Masse» zu erreichen, «so dass dem motorisierten Verkehr auf Augenhöhe begegnet werden kann», wie dies die [Internetseite der Critical Mass in Zürich](https://criticalmass-zh.ch/was-ist-die-critical-mass.html) formuliert.
 
+- - -
+
 {{<box>}}
 
 ##### *Entstehung und Namensgebung der Critical Mass*
@@ -29,3 +31,11 @@ Die erste Critical Mass fand im September 1992 in San Francisco statt. Seit dem 
 Der Film «Return of the Scorcher» (1992) von Ted White war ausschlaggebend für den Namen «Critical Mass». In dem Film geht es um die Fahrradkultur in China und den Niederlanden im Vergleich zu den USA. George Bliss, der im Film vorkommt, beobachtete das Verkehrsverhalten in China. Die Verkehrsteilnehmenden überquerten problemlos eine Kreuzung ohne Ampel, nachdem sie durch das Warten bis zu einer bestimmten Gruppengrösse eine «kritische Masse» erreicht hatten, um den Gegenverkehr zum Anhalten zu zwingen. Diese «kritische Masse» war ausschlaggebend für den Namen Critical Mass.
 
 {{</box/>}}
+
+- - -
+
+Als Velofahrer*in setzt man sich täglich im Strassenverkehr vielen Gefahren aus. Durch die CM kann man den öffentlichen Raum als Gruppe vorübergehend zurückerobern. Jedoch ist sie keine Demonstration. Tim, ein Aktivist und Mitfahrer der CM formuliert dies im Interview so: «Ich sage jetzt mal, es ist keine Demonstration, da es quasi einfach eine Zusammenkunft von vielen Leuten, vielen Menschen ist, die dann gemeinsam Fahrradfahren, wie auch Autos gemeinsam fahren».
+
+Dazu kommt auch noch, dass die CM nach aussen keine politische Botschaft oder Nachricht hat. Es sei wirklich nur ein Zusammenkommen, das rechtlich gesehen keine Demonstration sei. Auch die Polizei denkt, es sei keine Demonstration, da sie noch keine Mitfahrenden verhaftet haben und nur eingreifen, wenn zum Beispiel jemand respektlos auf dem Velo fahre. Dieser Meinung ist auch Herr Meyer von Bernmobil. Herr Meyer sagt, eine CM entspreche für Bernmobil nicht einer eigentlichen Demonstration, «jedoch behandeln wir die CM mit dem gleichen Mechanismus wie eine unbewilligte Demonstration.»
+
+> ***«Natürlich hat die CM schon eine gewisse politische Meinung»***
