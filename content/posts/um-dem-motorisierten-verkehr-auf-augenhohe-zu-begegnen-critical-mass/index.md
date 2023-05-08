@@ -24,6 +24,8 @@ Was ist die Critical Mass überhaupt? Die Critical Mass (CM) ist eine Veranstalt
 
 ##### *Entstehung und Namensgebung der Critical Mass*
 
+Die erste Critical Mass fand im September 1992 in San Francisco statt. Seit dem Start der ersten Critical Mass treffen sich Velofahrer\*innen weltweit meist monatlich für eine gemeinsame Fahrt in verschiedenen Städten. Eine CM hat keine Organisator\*innen. Das heisst, wenn irgendeine Person eine Critical Mass organisieren möchte, muss sie nur den Ort und die Zeit durch soziale Medien, Plakate, Mundpropaganda oder sonst irgendwie bekannt geben. Wenn dann zur angegebenen Zeit am geplanten Ort Velofahrer\*innen eintreffen, findet die CM statt und die Velofahrer\*innen beginnen ohne einen genauen Plan durch die Stadt zu fahren.
+
 Der Film «Return of the Scorcher» (1992) von Ted White war ausschlaggebend für den Namen «Critical Mass». In dem Film geht es um die Fahrradkultur in China und den Niederlanden im Vergleich zu den USA. George Bliss, der im Film vorkommt, beobachtete das Verkehrsverhalten in China. Die Verkehrsteilnehmenden überquerten problemlos eine Kreuzung ohne Ampel, nachdem sie durch das Warten bis zu einer bestimmten Gruppengrösse eine «kritische Masse» erreicht hatten, um den Gegenverkehr zum Anhalten zu zwingen. Diese «kritische Masse» war ausschlaggebend für den Namen Critical Mass.
 
 {{</box/>}}
