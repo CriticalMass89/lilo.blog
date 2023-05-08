@@ -44,6 +44,10 @@ Die Critical Mass ist keine Demonstration, jedoch hat sie schon eine gewisse pol
 
 Für Bernmobil wäre eine Bewilligung von Vorteil und begrüssenswert, da es ihnen so mehr Planungssicherheit gäbe. Herr Meyer erzählt: «Wir können natürlich dann entsprechend Dispositionen treffen, damit die Fahrgäste eben möglichst wenig betroffen sind von Umleitungen oder Unterbrüchen.» Dadurch, dass die Critical Mass ein Fahren durch die Stadt ist, wird der Verkehr zu einem Teil eingeschränkt. Tim sagt, es werde sehr darauf geachtet, aktiv den Verkehr nicht sonderlich einzuschränken. Bei einer CM bewegen sich die Velos als eine Einheit, als ein Fahrzeug fort. Das heisst, bei einer Ampel, wenn es für die ersten Velos noch grün ist, fahren diese weiter. Alle anderen folgen den Vorderen, auch wenn die Ampel rot werden würde. So, dass sie wie zum Beispiel bei einem Lastwagen, eine Einheit bleiben. Dies hat zur Folge, dass Autos oder allgemein Motorfahrzeuge zum Teil etwas im Stau stehen. Doch in der Innenstadt müssen Autos allerdings sowieso mit Verzögerungen rechnen.
 
+- - -
+
+![Critical Mass Bern Juni 2021](signal-2023-05-07-094844_002.jpeg)
+
 Was immer wieder ein Problem werden kann, ist, wenn der ÖV oder ein Blaulicht-Fahrzeug durch das Meer von Velofahrer*innen hindurch muss. Die Mitfahrenden in der «Kritischen Masse» versuchen, alle Blaulicht-Fahrzeuge durchzulassen. Es ist nicht immer ganz einfach durchzuführen, aber, wie Tim sagt, sei er jetzt auch schon ein paarmal dabei gewesen, als ein Krankenwagen durch musste. Und das sei dann doch jedes Mal irgendwie recht schnell gegangen. Da die CM im Moment hier in Bern relativ klein sei, hat auch der ÖV, solange sie nicht grösser werde, keine grossen Probleme, so äussert sich Herr Meyer.
 
 Bei der Frage, was die Critical Mass schon erreicht habe, meint Tim im Interview, dass es darauf ankomme, von welcher Stadt man spräche. Hier in Bern kann man nicht sagen, dass die CM dies oder das schon erreicht hat, da die Veloinfrastruktur, wie Tim es ausdrückt, «schon einigermassen ‘umä’ ist». Er denkt auch, dass die CM schon eher ins Unterbewusstsein der Menschen eingedrungen ist, spezifisch bei Politiker*innen, so dass man unbewusst schon oft ans Fahrrad denkt. So sei Tim der Meinung, dass zum Beispiel bei Entscheidungsprozessen wie bei einem Strassenbauprojekt automatisch das Fahrrad schon von Anfang an eingebunden werde.
@@ -58,4 +62,4 @@ Für Orte und Städte, die schon eine «einigermassen gute» Infrastruktur für 
 
 > ***«Ja, ich würde gerne mal mitfahren!»***
 
-![Critical Mass in Bern am 30.11.2022](signal-2023-03-22-195421_006.jpeg)
+![Critical Mass Bern Novmber](signal-2023-03-22-195421_006.jpeg)
