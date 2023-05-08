@@ -48,8 +48,6 @@ Was immer wieder ein Problem werden kann, ist, wenn der ÖV oder ein Blaulicht-F
 
 Bei der Frage, was die Critical Mass schon erreicht habe, meint Tim im Interview, dass es darauf ankomme, von welcher Stadt man spräche. Hier in Bern kann man nicht sagen, dass die CM dies oder das schon erreicht hat, da die Veloinfrastruktur, wie Tim es ausdrückt, «schon einigermassen ‘umä’ ist». Er denkt auch, dass die CM schon eher ins Unterbewusstsein der Menschen eingedrungen ist, spezifisch bei Politiker*innen, so dass man unbewusst schon oft ans Fahrrad denkt. So sei Tim der Meinung, dass zum Beispiel bei Entscheidungsprozessen wie bei einem Strassenbauprojekt automatisch das Fahrrad schon von Anfang an eingebunden werde.
 
-
-
 > ***«Als Fahrradfahrer*in in Zürich ist es brutal.»***
 
 In Zürich ist die Veloinfrastruktur um einiges schlechter. Das sieht man auch an der Grösse der CM, die dort deutlich grösser ist. Tim sagt, es sei «brutal», dort mit dem Velo zu fahren. Er denkt, dass darum dort auch leichter handfeste Auswirkungen durch die Critical Mass erreicht werden können. Dort gibt es zu Gunsten der Velofahrer*innen mehr politischen Druck, was den Ansporn zusätzlich steigert.
@@ -60,4 +58,4 @@ Für Orte und Städte, die schon eine «einigermassen gute» Infrastruktur für 
 
 > ***«Ja, ich würde gerne mal mitfahren!»***
 
-![](signal-2023-03-22-195421_006.jpeg)
+![Critical Mass in Bern am 30.11.2022](signal-2023-03-22-195421_006.jpeg)
