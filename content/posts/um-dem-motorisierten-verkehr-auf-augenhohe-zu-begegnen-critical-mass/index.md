@@ -22,6 +22,8 @@ Was ist die Critical Mass überhaupt? Die Critical Mass (CM) ist eine Veranstalt
 
 - - -
 
+
+
 {{<box>}}
 
 ##### *Entstehung und Namensgebung der Critical Mass*
@@ -34,9 +36,13 @@ Der Film «Return of the Scorcher» (1992) von Ted White war ausschlaggebend fü
 
 - - -
 
+
+
 Als Velofahrer*in setzt man sich täglich im Strassenverkehr vielen Gefahren aus. Durch die CM kann man den öffentlichen Raum als Gruppe vorübergehend zurückerobern. Jedoch ist sie keine Demonstration. Tim, ein Aktivist und Mitfahrer der CM formuliert dies im Interview so: «Ich sage jetzt mal, es ist keine Demonstration, da es quasi einfach eine Zusammenkunft von vielen Leuten, vielen Menschen ist, die dann gemeinsam Fahrradfahren, wie auch Autos gemeinsam fahren».
 
 Dazu kommt auch noch, dass die CM nach aussen keine politische Botschaft oder Nachricht hat. Es sei wirklich nur ein Zusammenkommen, das rechtlich gesehen keine Demonstration sei. Auch die Polizei denkt, es sei keine Demonstration, da sie noch keine Mitfahrenden verhaftet haben und nur eingreifen, wenn zum Beispiel jemand respektlos auf dem Velo fahre. Dieser Meinung ist auch Herr Meyer von Bernmobil. Herr Meyer sagt, eine CM entspreche für Bernmobil nicht einer eigentlichen Demonstration, «jedoch behandeln wir die CM mit dem gleichen Mechanismus wie eine unbewilligte Demonstration.»
+
+- - -
 
 > ***«Natürlich hat die CM schon eine gewisse politische Meinung»***
 
@@ -52,7 +58,11 @@ Was immer wieder ein Problem werden kann, ist, wenn der ÖV oder ein Blaulicht-F
 
 Bei der Frage, was die Critical Mass schon erreicht habe, meint Tim im Interview, dass es darauf ankomme, von welcher Stadt man spräche. Hier in Bern kann man nicht sagen, dass die CM dies oder das schon erreicht hat, da die Veloinfrastruktur, wie Tim es ausdrückt, «schon einigermassen ‘umä’ ist». Er denkt auch, dass die CM schon eher ins Unterbewusstsein der Menschen eingedrungen ist, spezifisch bei Politiker*innen, so dass man unbewusst schon oft ans Fahrrad denkt. So sei Tim der Meinung, dass zum Beispiel bei Entscheidungsprozessen wie bei einem Strassenbauprojekt automatisch das Fahrrad schon von Anfang an eingebunden werde.
 
-> ***«Als Fahrradfahrer*in in Zürich ist es brutal.»***
+- - -
+
+
+
+> ***«Als Fahrradfahrer*in in Zürich ist es brutal.»**
 
 In Zürich ist die Veloinfrastruktur um einiges schlechter. Das sieht man auch an der Grösse der CM, die dort deutlich grösser ist. Tim sagt, es sei «brutal», dort mit dem Velo zu fahren. Er denkt, dass darum dort auch leichter handfeste Auswirkungen durch die Critical Mass erreicht werden können. Dort gibt es zu Gunsten der Velofahrer*innen mehr politischen Druck, was den Ansporn zusätzlich steigert.
 
