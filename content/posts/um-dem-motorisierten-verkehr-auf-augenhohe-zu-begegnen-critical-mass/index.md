@@ -62,4 +62,4 @@ Für Orte und Städte, die schon eine «einigermassen gute» Infrastruktur für 
 
 > ***«Ja, ich würde gerne mal mitfahren!»***
 
-![Critical Mass Bern Novmber](signal-2023-03-22-195421_006.jpeg)
+![Critical Mass Bern September](signal-2023-03-22-195421_006.jpeg)
