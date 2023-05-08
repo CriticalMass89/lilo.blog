@@ -38,4 +38,8 @@ Als Velofahrer*in setzt man sich täglich im Strassenverkehr vielen Gefahren aus
 
 Dazu kommt auch noch, dass die CM nach aussen keine politische Botschaft oder Nachricht hat. Es sei wirklich nur ein Zusammenkommen, das rechtlich gesehen keine Demonstration sei. Auch die Polizei denkt, es sei keine Demonstration, da sie noch keine Mitfahrenden verhaftet haben und nur eingreifen, wenn zum Beispiel jemand respektlos auf dem Velo fahre. Dieser Meinung ist auch Herr Meyer von Bernmobil. Herr Meyer sagt, eine CM entspreche für Bernmobil nicht einer eigentlichen Demonstration, «jedoch behandeln wir die CM mit dem gleichen Mechanismus wie eine unbewilligte Demonstration.»
 
+
+
 > ***«Natürlich hat die CM schon eine gewisse politische Meinung»***
+
+Die Critical Mass ist keine Demonstration, jedoch hat sie schon eine gewisse politische Meinung. Da niemand mit Schildern mitfahre, gäbe es rechtlich gesehen keinen Grund zur Annahme, dass sie eine Demonstration sei, wie dies Tim sagt. Somit besteht für ihn auch keine Diskussion darüber, ob man eine Bewilligung für die Critical Mass einführen sollte. Wenn es eine Bewilligung gäbe, wie Përparim Avdili, FDP-Präsident der Stadt Zürich, vom Zürcher Stadtrat fordert, würde man die CM als Demonstration ansehen.
