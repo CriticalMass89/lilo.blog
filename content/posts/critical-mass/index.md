@@ -10,7 +10,7 @@ description = "Eine Velofahrt als Gruppe durch die Stadt, was ist das? Die Criti
 
 Eine Velofahrt als Gruppe durch die Stadt, was ist das? Die Critical Mass, was sie schon bewirkt hat und wie sie funktioniert.
 
-{{</lead/>}}
+{{</lead>}}
 
 Geschrieben von Rahel Heigl
 
@@ -32,7 +32,7 @@ Die erste Critical Mass fand im September 1992 in San Francisco statt. Seit dem 
 
 Der Film «Return of the Scorcher» (1992) von Ted White war ausschlaggebend für den Namen «Critical Mass». In dem Film geht es um die Fahrradkultur in China und den Niederlanden im Vergleich zu den USA. George Bliss, der im Film vorkommt, beobachtete das Verkehrsverhalten in China. Die Verkehrsteilnehmenden überquerten problemlos eine Kreuzung ohne Ampel, nachdem sie durch das Warten bis zu einer bestimmten Gruppengrösse eine «kritische Masse» erreicht hatten, um den Gegenverkehr zum Anhalten zu zwingen. Diese «kritische Masse» war ausschlaggebend für den Namen Critical Mass.
 
-{{</box/>}}
+{{</box>}}
 
 - - -
 
