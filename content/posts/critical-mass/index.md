@@ -62,6 +62,8 @@ Bei der Frage, was die Critical Mass schon erreicht habe, meint Tim im Interview
 
 - - -
 
+
+
 > ***«Als Fahrradfahrer*in in Zürich ist es brutal.»**
 
 In Zürich ist die Veloinfrastruktur um einiges schlechter. Das sieht man auch an der Grösse der CM, die dort deutlich grösser ist. Tim sagt, es sei «brutal», dort mit dem Velo zu fahren. Er denkt, dass darum dort auch leichter handfeste Auswirkungen durch die Critical Mass erreicht werden können. Dort gibt es zu Gunsten der Velofahrer*innen mehr politischen Druck, was den Ansporn zusätzlich steigert.
@@ -72,4 +74,4 @@ Für Orte und Städte, die schon eine «einigermassen gute» Infrastruktur für 
 
 > ***«Ja, ich würde gerne mal mitfahren!»***
 
-![Critical Mass Bern September](signal-2023-03-22-195421_006.jpeg)
+![Critical Mass Bern September 2022](signal-2023-03-22-195421_006.jpeg)
