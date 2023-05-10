@@ -8,7 +8,7 @@ description = "Eine Velofahrt als Gruppe durch die Stadt, was ist das? Die Criti
 +++
 {{<lead>}}
 
-Eine Velofahrt als Gruppe durch die Stadt, was ist das? Die Critical Mass, was sie schon bewirkt hat und wie sie funktioniert.
+**Eine Velofahrt als Gruppe durch die Stadt, was ist das? Die Critical Mass, was sie schon bewirkt hat und wie sie funktioniert.**
 
 {{</lead>}}
 
@@ -26,7 +26,7 @@ Was ist die Critical Mass überhaupt? Die Critical Mass (CM) ist eine Veranstalt
 
 <details>
 
-<summary>*Entstehung und Namensgebung der Critical Mass*</summary>
+<summary>Entstehung und Namensgebung der Critical Mass</summary>
 
 <br>
 
