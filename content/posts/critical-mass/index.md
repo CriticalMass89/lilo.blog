@@ -22,21 +22,23 @@ Was ist die Critical Mass überhaupt? Die Critical Mass (CM) ist eine Veranstalt
 
 - - -
 
-
-
 {{<box>}}
 
-##### *Entstehung und Namensgebung der Critical Mass*
+<details>
+
+<summary>*Entstehung und Namensgebung der Critical Mass*</summary>
+
+<br>
 
 Die erste Critical Mass fand im September 1992 in San Francisco statt. Seit dem Start der ersten Critical Mass treffen sich Velofahrer\*innen weltweit meist monatlich für eine gemeinsame Fahrt in verschiedenen Städten. Eine CM hat keine Organisator\*innen. Das heisst, wenn irgendeine Person eine Critical Mass organisieren möchte, muss sie nur den Ort und die Zeit durch soziale Medien, Plakate, Mundpropaganda oder sonst irgendwie bekannt geben. Wenn dann zur angegebenen Zeit am geplanten Ort Velofahrer\*innen eintreffen, findet die CM statt und die Velofahrer\*innen beginnen ohne einen genauen Plan durch die Stadt zu fahren.
 
 Der Film «Return of the Scorcher» (1992) von Ted White war ausschlaggebend für den Namen «Critical Mass». In dem Film geht es um die Fahrradkultur in China und den Niederlanden im Vergleich zu den USA. George Bliss, der im Film vorkommt, beobachtete das Verkehrsverhalten in China. Die Verkehrsteilnehmenden überquerten problemlos eine Kreuzung ohne Ampel, nachdem sie durch das Warten bis zu einer bestimmten Gruppengrösse eine «kritische Masse» erreicht hatten, um den Gegenverkehr zum Anhalten zu zwingen. Diese «kritische Masse» war ausschlaggebend für den Namen Critical Mass.
 
+</details>
+
 {{</box>}}
 
 - - -
-
-
 
 Als Velofahrer*in setzt man sich täglich im Strassenverkehr vielen Gefahren aus. Durch die CM kann man den öffentlichen Raum als Gruppe vorübergehend zurückerobern. Jedoch ist sie keine Demonstration. Tim, ein Aktivist und Mitfahrer der CM formuliert dies im Interview so: «Ich sage jetzt mal, es ist keine Demonstration, da es quasi einfach eine Zusammenkunft von vielen Leuten, vielen Menschen ist, die dann gemeinsam Fahrradfahren, wie auch Autos gemeinsam fahren».
 
@@ -59,8 +61,6 @@ Was immer wieder ein Problem werden kann, ist, wenn der ÖV oder ein Blaulicht-F
 Bei der Frage, was die Critical Mass schon erreicht habe, meint Tim im Interview, dass es darauf ankomme, von welcher Stadt man spräche. Hier in Bern kann man nicht sagen, dass die CM dies oder das schon erreicht hat, da die Veloinfrastruktur, wie Tim es ausdrückt, «schon einigermassen ‘umä’ ist». Er denkt auch, dass die CM schon eher ins Unterbewusstsein der Menschen eingedrungen ist, spezifisch bei Politiker*innen, so dass man unbewusst schon oft ans Fahrrad denkt. So sei Tim der Meinung, dass zum Beispiel bei Entscheidungsprozessen wie bei einem Strassenbauprojekt automatisch das Fahrrad schon von Anfang an eingebunden werde.
 
 - - -
-
-
 
 > ***«Als Fahrradfahrer*in in Zürich ist es brutal.»**
 
